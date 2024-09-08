@@ -25,7 +25,7 @@ body {
     height: auto;
     margin-bottom: 20px;
     position: relative;
-    left: 50%;
+    left: 40%;
     transform: translateX(-50%);
     transition: left 0.3s ease;
 }
